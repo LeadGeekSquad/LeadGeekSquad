@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Naman!
+# 👋 Hi there, I'm Naman!
+## 📍 Welcome to my hub! ##
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LeadGeekSquad&color=blueviolet&style=flat-square)
 
