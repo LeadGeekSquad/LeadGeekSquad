@@ -34,7 +34,8 @@
 ## 🌟 Cool Projects  
 
 - **[Quote Clock](https://chromewebstore.google.com/detail/quote-clock/dbladalnnhlabhpnnjchhnaemidbkieo):** A Chrome extension that inspires you with motivational quotes.  
-- **[WeatherCheck App](https://github.com/LeadGeekSquad/WeatherCheck):** Personalized WeatherCheck based on the city name provided by user inputs.  
+- **[WeatherCheck App](https://github.com/LeadGeekSquad/WeatherCheck):** Personalized WeatherCheck based on the city name provided by user inputs.
+- **[JavaScript Quiz App](https://github.com/LeadGeekSquad/JavaScriptQuizApp):** A JavaScript quiz app to polish and test your JS skills.  
 
 ---
 
