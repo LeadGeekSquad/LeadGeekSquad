@@ -36,7 +36,7 @@
 - **[Quote Clock](https://chromewebstore.google.com/detail/quote-clock/dbladalnnhlabhpnnjchhnaemidbkieo):** A Chrome extension that inspires you with motivational quotes.  
 - **[WeatherCheck App](https://github.com/LeadGeekSquad/WeatherCheck):** Personalized WeatherCheck based on the city name provided by user inputs.
 - **[JavaScript Quiz App](https://github.com/LeadGeekSquad/JavaScriptQuizApp):** A JavaScript quiz application which facilitates to polish and test your JS skills.
-- **[LeetCode Daily](https://github.com/LeadGeekSquad/LeetCodeDaily):** Conquering LeetCode few problems a day. Daily LeetCode grind and problem solving. Join me on my coding journey!
+- **[LeetCode Daily](https://github.com/LeadGeekSquad/LeetCodeDaily):** Daily LeetCode grind and problem solving. Conquer LeetCode. Join me on my coding journey!
 
 ---
 
